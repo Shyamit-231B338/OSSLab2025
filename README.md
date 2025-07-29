@@ -1,5 +1,10 @@
 # OSSLab2025
-This repository contains lab exercises for the Open Source Software Lab - 2025
-This is the new message after forking the library
+## Lab Exercise 1
+Name: Shyamit Goel
+Roll Number: 231B338
+Email: 231b338@juetguna.in
 
-This is the second message after writing to play around and practice comiting and forking.
+a = 5
+b = 6
+sum = a + b
+print(sum)
